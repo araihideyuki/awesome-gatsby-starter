@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Awesome Gatsby Starter',
+    title: '株式会社　チャック',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
